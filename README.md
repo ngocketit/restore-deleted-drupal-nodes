@@ -1,2 +1,2 @@
-# restore-deleted-drupal-nodes
-A simple script to restore deleted Drupal nodes by importing them from another environment
+# Restore deleted Drupal nodes
+A simple script to restore deleted Drupal nodes on Acquia Cloud by importing them from another environment

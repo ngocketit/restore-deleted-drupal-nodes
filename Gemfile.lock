@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    highline (1.6.21)
+    rainbow (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  highline
+  rainbow
